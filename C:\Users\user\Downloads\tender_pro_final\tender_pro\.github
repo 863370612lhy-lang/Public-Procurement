@@ -1,0 +1,70 @@
+name: 每日招标信息采集
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: '采集天数范围'
+        required: false
+        default: '30'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 运行采集脚本
+        env:
+          DAYS_BACK: ${{ github.event.inputs.days_back || '30' }}
+        run: |
+          python scraper.py
+          echo "采集完成"
+          ls -la *.html *.json 2>/dev/null || true
+
+      - name: 检查结果
+        run: |
+          if [ -f index.html ]; then
+            echo "✅ index.html 生成成功"
+          else
+            echo "❌ index.html 未生成"
+            exit 1
+          fi
+
+      - name: 推送到 gh-pages 分支
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git fetch origin gh-pages 2>/dev/null || true
+          git checkout -B gh-pages origin/gh-pages 2>/dev/null || git checkout -B gh-pages
+          git checkout ${{ github.ref_name }} -- index.html data.json 2>/dev/null || true
+          echo "" >> index.html
+          git add index.html data.json
+          git diff --staged --quiet || git commit -m "📊 招标日报更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin gh-pages --force
+          echo "✅ 推送成功"
+
+      - name: 输出网页地址
+        run: |
+          REPO="${{ github.repository }}"
+          OWNER=$(echo $REPO | cut -d'/' -f1)
+          REPONAME=$(echo $REPO | cut -d'/' -f2)
+          echo "🌐 访问地址：https://${OWNER}.github.io/${REPONAME}/"
