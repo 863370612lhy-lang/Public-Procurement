@@ -1,0 +1,358 @@
+{
+  "run_date": "2026-03-29 05:48",
+  "total": 36,
+  "categories": {
+    "smoke": {
+      "name": "烟草吸烟室 / 吸烟环境",
+      "count": 0,
+      "items": []
+    },
+    "tobacco": {
+      "name": "烟草公司相关采购",
+      "count": 2,
+      "items": [
+        {
+          "title": "云南 省烟草 高水平专业群烟草理化分析重点实验室的公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-25",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260302_26208962.htm"
+        },
+        {
+          "title": "云南 省烟草 高水平专业群烟草理化分析重点实验室中标结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260325_26314412.htm"
+        }
+      ]
+    },
+    "box": {
+      "name": "集装箱厢房 / 活动房",
+      "count": 0,
+      "items": []
+    },
+    "trash": {
+      "name": "垃圾房 / 垃圾亭",
+      "count": 22,
+      "items": [
+        {
+          "title": "中慧力祥项目管理有限公司关于长春市南关区建筑 垃圾中转 场地建筑垃圾、装修垃圾资源化处理外包服务项目的公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-04-20",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260326_26316482.htm"
+        },
+        {
+          "title": "墨玉县城市环卫市政、园林绿化养护及 垃圾中转 清运项目公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-04-14",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260324_26310120.htm"
+        },
+        {
+          "title": "宜宾市叙州区综合行政执法局叙州区垃圾分类收转运体系建设项目-中心城区 垃圾分类亭 采购（第一批）招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-04-08",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260318_26285586.htm"
+        },
+        {
+          "title": "榆林市榆阳区环境卫生管理局2026年 垃圾分类亭 、垃圾屋项目采购招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-30",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260310_26251022.htm"
+        },
+        {
+          "title": "生活 垃圾分类亭 采购项目终止公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-13",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202603/t20260313_26266335.htm"
+        },
+        {
+          "title": "晋中市太谷区环境卫生服务中心分类 垃圾桶采购 项目的更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-10",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202603/t20260320_26295343.htm"
+        },
+        {
+          "title": "牡丹江市第三清洁服务中心 果皮箱 采购更正公告（第二次）",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-02-02",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202603/t20260312_26262637.htm"
+        },
+        {
+          "title": "裕民县哈拉布拉乡加勒帕克塔勒村、加勒克孜阿尕什村 分类垃圾 公共设施项目中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-02-01",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260320_26295565.htm"
+        },
+        {
+          "title": "新疆疆博优工程项目管理有限公司关于裕民县哈拉布拉乡加勒帕克塔勒村、加勒克孜阿尕什村 分类垃圾 公共设施项目的更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-02-01",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202603/t20260303_26213814.htm"
+        },
+        {
+          "title": "新疆维吾尔自治区第六人民医院新建污水处理站、医疗 垃圾房 、门卫室建设项目污水处理站、医疗 垃圾房 监理服务中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260305_26231761.htm"
+        },
+        {
+          "title": "涵熙（苏州）工程顾问有限公司关于无锡市惠山区长安街道办事处的长安街道2026-2028年长安社区分类 垃圾房 服务项目中标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202602/t20260227_26199264.htm"
+        },
+        {
+          "title": "胶州市胶北街道办事处户外240L四 分类垃圾 收集桶采购项目公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260310_26251188.htm"
+        },
+        {
+          "title": "［江西省公共资源交易平台］铜鼓铜发项目管理有限公司关于铜鼓县生活垃圾处理提标改造项目（生活 垃圾中转 及压缩设备）（招标编号：铜发项目管理-2025-015-01）结果公示",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260326_26318719.htm"
+        },
+        {
+          "title": "鄂尔多斯文化产业发展中心园区污水清抽、洒水除尘、浇水、扫雪、 垃圾中转 项目中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260305_26232392.htm"
+        },
+        {
+          "title": "新郑市住房和城乡建设管理局 垃圾中转 设备更新项目-废标（终止）公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202603/t20260304_26215288.htm"
+        },
+        {
+          "title": "永安市槐南镇槐南村等14个村生活 垃圾中转 运营项目(四次)结果公告（采购包1）",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260303_26213811.htm"
+        },
+        {
+          "title": "牡丹江市第三清洁服务中心 果皮箱 中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260326_26319256.htm"
+        },
+        {
+          "title": "果皮箱 购置及安装中标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260310_26255492.htm"
+        },
+        {
+          "title": "渭南市临渭区环境卫生管理中心 果皮箱 采购项目成交结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260310_26251418.htm"
+        },
+        {
+          "title": "华诚工程咨询集团有限公司关于湖塘街道2026年度240L 垃圾桶采购 项目废标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202603/t20260324_26306859.htm"
+        },
+        {
+          "title": "大庆市大同区住房和城乡建设局2026年 垃圾桶采购 项目中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260324_26305303.htm"
+        },
+        {
+          "title": "扎赉特旗城市管理综合执法局农村牧区垃圾处理补助 垃圾桶采购 项目中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260311_26256919.htm"
+        }
+      ]
+    },
+    "toilet": {
+      "name": "移动公厕 / 装配式公厕",
+      "count": 12,
+      "items": [
+        {
+          "title": "哈密市伊州区石油新城街道辖区 公厕建设 项目公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-04-08",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260320_26294558.htm"
+        },
+        {
+          "title": "五大连池风景名胜区自然保护区智慧旅游和游客服务中心五大连池风景区成品 移动厕所 购置项目招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-04-07",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260313_26266381.htm"
+        },
+        {
+          "title": "杭州市建设工程管理集团有限公司关于8座智能无水 生态公厕 运维管理服务项目（3年）的更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-16",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202603/t20260317_26277252.htm"
+        },
+        {
+          "title": "京山市城市管理执法局 移动厕所 采购项目终止公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-13",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202603/t20260313_26268194.htm"
+        },
+        {
+          "title": "京山市城市管理执法局 移动厕所 采购项目竞争性磋商更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-03-06",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202603/t20260306_26238959.htm"
+        },
+        {
+          "title": "苏州工业园区综合行政执法局关于2026年园区 移动公厕 租赁及保洁服务的成交公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260317_26280431.htm"
+        },
+        {
+          "title": "招远市综合行政执法局 装配式公厕 设备采购供货与安装项目（二次）招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202603/t20260327_26321617.htm"
+        },
+        {
+          "title": "青海潘明工程项目管理有限责任公司关于购置数字化智能 环保公厕 中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260310_26253868.htm"
+        },
+        {
+          "title": "2026年天安门广场东西侧路及纪念堂南侧 移动卫生间 服务项目中标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260306_26238453.htm"
+        },
+        {
+          "title": "敦煌市鸣沙山月牙泉景区服务中心鸣沙山月牙泉景区卫生间提升改造项目-景观式 移动卫生间 采购项目中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202603/t20260302_26210070.htm"
+        },
+        {
+          "title": "凤庆县2026年自然村卫生 公厕建设 项目成交公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260310_26251960.htm"
+        },
+        {
+          "title": "【平公资采2026177号】鲁山县赵村镇人民政府赵村镇赵村村排洪渠及 公厕建设 项目-成交公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202603/t20260309_26249292.htm"
+        }
+      ]
+    }
+  }
+}
