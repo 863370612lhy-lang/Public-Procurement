@@ -1,0 +1,31 @@
+{
+  "run_date": "2026-09-06 08:22",
+  "total": 0,
+  "categories": {
+    "smoke": {
+      "name": "烟草吸烟室 / 吸烟环境",
+      "count": 0,
+      "items": []
+    },
+    "tobacco": {
+      "name": "烟草公司相关采购",
+      "count": 0,
+      "items": []
+    },
+    "box": {
+      "name": "集装箱厢房 / 活动房",
+      "count": 0,
+      "items": []
+    },
+    "trash": {
+      "name": "垃圾房 / 垃圾亭",
+      "count": 0,
+      "items": []
+    },
+    "toilet": {
+      "name": "移动公厕 / 装配式公厕",
+      "count": 0,
+      "items": []
+    }
+  }
+}
