@@ -1,0 +1,321 @@
+{
+  "run_date": "2026-10-24 08:41",
+  "total": 32,
+  "categories": {
+    "smoke": {
+      "name": "烟草吸烟室 / 吸烟环境",
+      "count": 0,
+      "items": []
+    },
+    "tobacco": {
+      "name": "烟草公司相关采购",
+      "count": 0,
+      "items": []
+    },
+    "box": {
+      "name": "集装箱厢房 / 活动房",
+      "count": 0,
+      "items": []
+    },
+    "trash": {
+      "name": "垃圾房 / 垃圾亭",
+      "count": 29,
+      "items": [
+        {
+          "title": "宁波宁里项目咨询有限公司关于新碶街道 垃圾房 改造及配套船坞工程的竞争性磋商公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-11-02",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202610/t20261022_27545077.htm"
+        },
+        {
+          "title": "宜宾市叙州区综合行政执法局叙州区垃圾分类收转运体系建设项目 果皮箱 采购竞争性谈判公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-30",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261015_27500579.htm"
+        },
+        {
+          "title": "易县2026年农村 垃圾桶采购 项目（二次）公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-29",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260929_27418508.htm"
+        },
+        {
+          "title": "宁波中基国际招标有限公司关于东江桥中转站运营管理及 垃圾中转 清运服务项目（重）的竞争性磋商公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-26",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202610/t20261015_27501985.htm"
+        },
+        {
+          "title": "喀什市生活 垃圾中转 储存场生活垃圾清运项目竞争性谈判公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-22",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261017_27513148.htm"
+        },
+        {
+          "title": "分类垃圾桶、 果皮箱 采购项目招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-16",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260924_27398194.htm"
+        },
+        {
+          "title": "宜昌市猇亭区生活垃圾收转运一体化建设项目一期（古老背片区智能垃圾棚亭、智能 垃圾桶采购 项目）更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-15",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261015_27500585.htm"
+        },
+        {
+          "title": "犍为县综合行政执法局犍为县生活垃圾分类及收转运设施设备更新（采购垃圾桶、分类 垃圾亭 ）采购更正公告（第一次）",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-14",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261020_27526062.htm"
+        },
+        {
+          "title": "英山县城乡生活垃圾收集处理设施建设项目（三轮车、 垃圾收集亭 、垃圾桶）中标（成交）结果更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-14",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261014_27491437.htm"
+        },
+        {
+          "title": "英山县城乡生活垃圾收集处理设施建设项目（垃圾收集点、 垃圾收集亭 ）公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-14",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261014_27489082.htm"
+        },
+        {
+          "title": "屯溪区2026年度四分类 垃圾桶采购 项目",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-09-21",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261001_27437981.htm"
+        },
+        {
+          "title": "浙江省成套招标代理有限公司关于拱墅区综合行政执法局 垃圾房 视频监控服务采购项目中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261023_27555453.htm"
+        },
+        {
+          "title": "南京理工大学汤山研究生宿舍项目1#-2#宿舍楼、3#-4#宿舍楼（含地下室及人防）、 垃圾房 、门卫房施工总承包招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492460.htm"
+        },
+        {
+          "title": "彭一小区生活 垃圾房 和惠民回收服务点改建工程的中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260929_27416227.htm"
+        },
+        {
+          "title": "平江县环卫设施设备更新项目智能四分类 垃圾亭 等环卫设施采购公开招标更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261012_27472636.htm"
+        },
+        {
+          "title": "平江县环卫设施设备更新项目智能四 分类垃圾 亭等环卫设施采购公开招标更正公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261012_27472636.htm"
+        },
+        {
+          "title": "喀什市生活 垃圾中转 储存场生活垃圾清运项目中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261023_27555354.htm"
+        },
+        {
+          "title": "金安区生活垃圾分类处理设施提标改造工程项目-城区生活 垃圾分类亭 采购中标结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261022_27542253.htm"
+        },
+        {
+          "title": "汾湖高新区（黎里镇）综合行政执法局执法一中队关于汾湖居民小区 垃圾分类亭 房点位视频监控服务成交公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202610/t20261016_27506018.htm"
+        },
+        {
+          "title": "分类垃圾桶、 果皮箱 采购项目结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261019_27516966.htm"
+        },
+        {
+          "title": "吉林市昌邑区2026年城市更新重点工程购买 果皮箱 及垃圾桶项目中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260930_27424840.htm"
+        },
+        {
+          "title": "城乡环卫一体化项目-- 垃圾桶采购 项目公开招标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261020_27525722.htm"
+        },
+        {
+          "title": "屯溪区2026年度四分类 垃圾桶采购 项目成交结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202610/t20261015_27494700.htm"
+        },
+        {
+          "title": "浙江富力诚欣工程顾问有限公司关于新仓镇2026年度分类 垃圾桶采购 项目中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261013_27483374.htm"
+        },
+        {
+          "title": "思南县农村生活垃圾收运 垃圾桶采购 项目的中标(成交)结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261009_27452595.htm"
+        },
+        {
+          "title": "霸州市管理综合行政执法局 垃圾桶采购 项目公开招标中标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261009_27450988.htm"
+        },
+        {
+          "title": "成都市新都区城市精细管理运维中心2026年果屑箱和 垃圾桶采购 中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260930_27430883.htm"
+        },
+        {
+          "title": "平利县西河镇环卫 垃圾桶采购 项目成交结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202609/t20260930_27426068.htm"
+        },
+        {
+          "title": "平泉市环境卫生管理中心2026年 垃圾桶采购 项目公开招标中标公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260928_27407192.htm"
+        }
+      ]
+    },
+    "toilet": {
+      "name": "移动公厕 / 装配式公厕",
+      "count": 3,
+      "items": [
+        {
+          "title": "五台山大桥下 装配式公厕 项目采购公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-30",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261008_27440592.htm"
+        },
+        {
+          "title": "西昌市城市管理局泸峰中学 装配式公厕 采购竞争性谈判公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "2026-10-29",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261021_27533992.htm"
+        },
+        {
+          "title": "成都市新津区综合行政执法局2026年 移动公厕 采购项目(三次)中标（成交）结果公告",
+          "buyer": "",
+          "zone": "",
+          "budget": "未披露",
+          "pub_date": "",
+          "source": "中国政府采购网",
+          "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261021_27533480.htm"
+        }
+      ]
+    }
+  }
+}
